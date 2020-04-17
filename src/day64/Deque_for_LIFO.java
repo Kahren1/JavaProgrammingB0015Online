@@ -17,7 +17,7 @@ public class Deque_for_LIFO {
         lifoQue.add("Say bye to Java");
         lifoQue.add("Say bye to Java");
         lifoQue.add("Say bye to Java");
-        System.out.println("Hi, for Github!");
+        System.out.println("Hi!");
         
         System.out.println("lifoQueue = " + lifoQue);
 
