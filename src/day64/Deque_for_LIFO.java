@@ -20,7 +20,7 @@ public class Deque_for_LIFO {
         System.out.println("Hi!");
         
         System.out.println("lifoQueue = " + lifoQue);
-
+//this is how we remove
         System.out.println("lifoQueue.remove() = " + lifoQue.remove());
         System.out.println("lifoQueue.removeLast() = " + lifoQue.removeLast());
         System.out.println("lifoQueue.removeLast() = " + lifoQue.removeLast());
